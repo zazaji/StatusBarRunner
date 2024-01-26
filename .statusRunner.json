@@ -1,0 +1,51 @@
+{
+    "data": [
+    {
+        "isRunning": true,
+        "cmd": " cd \/Users\/ou\/project\/pc_project\/GeminiProChat-main&&\/Users\/ou\/.nvm\/versions\/node\/v21.5.0\/bin\/node dist\/server\/entry.mjs",
+        "processID": 1359,
+        "id": "269F7371-F14E-4AE3-887B-67C891D25709",
+        "name": "gemini",
+        "isLoginToRun": true
+    },
+    {
+        "cmd": "\/opt\/homebrew\/bin\/git-cola",
+        "name": "git-cola",
+        "processID": 2720,
+        "id": "0CFB0281-E8B0-4537-BF67-6F04912469DD",
+        "isLoginToRun": false,
+        "isRunning": true
+    },
+    {
+        "processID": 0,
+        "id": "043E8B09-F69F-4E89-A0E0-ED899363BB45",
+        "name": "autoscrcpy_background",
+        "isLoginToRun": false,
+        "cmd": "cd \/Users\/ou\/project\/android_project\/scracpy_backend && python run.py",
+        "isRunning": false
+    },
+    {
+        "isLoginToRun": false,
+        "processID": 0,
+        "id": "0E127E8A-8EBD-4098-AD73-549616329772",
+        "name": "comfyUI:8188",
+        "cmd": "sh \/Users\/ou\/llama\/ComfyUI\/run.sh",
+        "isRunning": false
+    },
+    {
+        "name": "Ollama_service",
+        "id": "1FB9DF31-EF38-4D35-922E-AB31798D5863",
+        "isRunning": false,
+        "cmd": "\/usr\/local\/bin\/ollama serve",
+        "isLoginToRun": false,
+        "processID": 5500
+    },
+    {
+        "name": "Ollama-gui:5173",
+        "isRunning": false,
+        "id": "7145A001-849D-4A84-B480-B2D39CB05B0C",
+        "isLoginToRun": false,
+        "processID": 24532,
+        "cmd": "cd \/Users\/ou\/llama\/ollama-gui\/ &&\/opt\/homebrew\/bin\/yarn dev"
+    }]
+}
